@@ -1,0 +1,87 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+nav
+{
+  padding-left: 10px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+  font-weight: bold;
+}
+
+section h1
+{
+  color: #fff;
+  text-transform: uppercase;
+}
+section h3
+{
+  color: #000;
+}
+img
+{
+  width : 200px;
+  height : 200px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+}
+
+section
+{
+}
+#about
+{
+  padding-top: 100px;
+  background: #8c8c8c
+}
+.profile-picture
+{
+  text-align: center;
+  margin: 0 auto;
+  float: none;
+}
+.heading
+{
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px 0 30px 0;
+}
+.button1
+{
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  border: 1px solid white;
+}
+.etude-font
+{
+  background-image: url("../image/fonts.jpeg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.liste
+{
+  padding: 50px 50px;
+  margin-left: 100px;
+  text-transform: capitalize;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+}
+#moncv-first
+{
+  color: #d99d2c;
+  padding-right: 100px;
+}
+
+ul
+{
+  float: right;
+}
